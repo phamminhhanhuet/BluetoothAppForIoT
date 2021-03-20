@@ -18,21 +18,32 @@ Pham Minh Hanh
 
 - Start screen
 
+
+
 ![Screenshot](https://github.com/phamminhhanhuet/BluetoothAppForIoT/blob/main/Control.png?raw=true)
 
-- Main control screen, in here the house's owner can know the status of all electric devices even so the house security (log record about the number of peole goes in/out the house/alert about gas leak, thief detection...) 
+- Main control screen, in here the house's owner can know the status of all electric devices even so the house security (log record about the number of people goes in/out the house/alert about gas leak, thief detection...) 
+
+
 
 ![Screenshot](https://github.com/phamminhhanhuet/BluetoothAppForIoT/blob/main/Control(2).png?raw=true)
 
-- Main control screen, in here the house's owner can know the status of all electric devices even so the house security (log record about the number of peole goes in/out the house/alert about gas leak, thief detection...) 
+- Main control screen, in here the house's owner can know the status of all electric devices even so the house security (log record about the number of people goes in/out the house/alert about gas leak, thief detection...) 
+
+
+
 
 ![Screenshot](https://github.com/phamminhhanhuet/BluetoothAppForIoT/blob/main/Option.png?raw=true)
 
 - Option menu: connect/disconnect bluetooth device, dicover bluetooth devices, go to profile screen to update personal information.
 
+
+
 ![Screenshot](https://github.com/phamminhhanhuet/BluetoothAppForIoT/blob/main/Profile.png?raw=true)
 
 - Information screen
+
+
 
 ![Screenshot](https://github.com/phamminhhanhuet/BluetoothAppForIoT/blob/main/Profile(2).png?raw=true)
 
