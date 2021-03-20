@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_on"
+        android:title="Turn On Bluetooth" />
+    <item
+        android:id="@+id/menu_off"
+        android:title="Turn Off Bluetooth" />
+    <item
+        android:id="@+id/menu_discover"
+        android:title="Discover" />
+
+    <item
+        android:id="@+id/menu_paired_device"
+        android:title="Paired Devices" />
+
+    <item
+        android:id="@+id/menu_moreInfor"
+        android:title="Information" />
+</menu>

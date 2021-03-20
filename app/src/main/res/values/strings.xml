@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartHome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start_fragment">start_fragment</string>
+    <string name="control_fragment">control_fragment</string>
+    <string name="information_fragment">information_fragment</string>
+</resources>
