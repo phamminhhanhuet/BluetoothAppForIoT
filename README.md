@@ -35,7 +35,7 @@ Pham Minh Hanh
 
 ![Screenshot](https://github.com/phamminhhanhuet/BluetoothAppForIoT/blob/main/Option.png?raw=true)
 
-- Option menu: connect/disconnect bluetooth device, dicover bluetooth devices, go to profile screen to update personal information.
+- Option menu: connect/disconnect bluetooth device, discover bluetooth devices, go to profile screen to update personal information.
 
 
 
