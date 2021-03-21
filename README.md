@@ -1,6 +1,6 @@
 # BluetoothAppForIoT
 
-A basic concept for a bluetooth-interface app using in smart system. 
+A basic demo for a bluetooth-interface app using in smart system. 
 
 # Author
 
